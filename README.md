@@ -38,11 +38,6 @@
   </a>
 </p>
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/MateuszPlebanek/output/snake.svg" alt="Snake animation" />
-
-
 
 ### 🎯 Visiteurs :
 <p align="center">
