@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=F7D64C&center=true&vCenter=true&width=500&lines=Hi,+my+name+is+Mateusz+Plebanek;I+am+a+Full+Stack+Developer;Welcome+to+my+GitHub!" />
+</h1>
 
-<!--
-**MateuszPlebanek/MateuszPlebanek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MateuszPlebanek&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MateuszPlebanek&theme=radical" />
+</p>
+
+---
+
+### 🚀 Technologies & Outils
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,html,css,tailwind,docker,git,github,postgres,mysql,mongodb&perline=8" />
+</p>
+
+---
+
+### 🎯 Contact & Réseaux
+
+📧 **Email** : mateusz.plebanek@example.com  
+🌐 **Portfolio** : [mateuszplebanek.dev](https://mateuszplebanek.dev)  
+📌 **LinkedIn** : [Mateusz Plebanek](https://www.linkedin.com/in/mateuszplebanek)  
