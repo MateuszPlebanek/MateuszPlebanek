@@ -38,6 +38,12 @@
   </a>
 </p>
 
+### 🐍 Mon activité GitHub :
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MateuszPlebanek/MateuszPlebanek/output/snake.svg" alt="Snake animation" />
+</p>
+
+
 ### 🎯 Visiteurs :
 <p align="center">
   <img src="https://profile-counter.glitch.me/MateuszPlebanek/count.svg?"  />
