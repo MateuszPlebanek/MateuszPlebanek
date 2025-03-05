@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=F7D64C&center=true&vCenter=true&width=500&lines=Hi,+my+name+is+Mateusz+Plebanek;I+am+a+Full+Stack+Developer;Welcome+to+my+GitHub!" />
+ <img src="https://readme-typing-svg.herokuapp.com?size=30&color=F7D64C&center=true&vCenter=true&width=700&duration=4000&lines=Hi,+my+name+is+Mateusz+Plebanek;I+am+a+Full+Stack+Developer;Welcome+to+my+GitHub!" />
 </h1>
 
 ---
