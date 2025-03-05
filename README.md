@@ -23,6 +23,6 @@
 
 ### 🎯 Contact & Réseaux
 
-📧 **Email** : mateusz.plebanek@example.com  
+📧 **Email** : matprocom@gmail.com  
 🌐 **Portfolio** : [mateuszplebanek.dev](https://mateuszplebanek.dev)  
 📌 **LinkedIn** : [Mateusz Plebanek](https://www.linkedin.com/in/mateuszplebanek)  
