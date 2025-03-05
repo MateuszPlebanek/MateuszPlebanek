@@ -21,8 +21,19 @@
 
 ---
 
-### 🎯 Contact & Réseaux
+### 🌐 Me retrouver ici :
 
-📧 **Email** : matprocom@gmail.com  
-🌐 **Portfolio** : [mateuszplebanek.dev](https://mateuszplebanek.dev)  
-📌 **LinkedIn** : [Mateusz Plebanek](https://www.linkedin.com/in/mateuszplebanek)  
+<p align="center">
+  <a href="https://x.com/TON_TWITTER" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="Twitter logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/TON_LINKEDIN" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
+  </a>
+  <a href="mailto:TON_EMAIL" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo" />
+  </a>
+  <a href="https://instagram.com/TON_INSTAGRAM" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram logo" />
+  </a>
+</p>
